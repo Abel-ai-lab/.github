@@ -19,6 +19,8 @@ We envision the next-generation foundation model as:
 - **Software and silicon, co-designed.** Its basic unit is an operator, and its chip is designed with it.
 - **Trust between people and machines.** The whole system is built to be examined, corrected and relied on.
 
+We are building the foundations of this new intelligence, from fundamental research to real-world applications.
+
 ## Research
 
 - **[Simons](https://github.com/Abel-ai-lab/Simons)**: open time-series foundation models for zero-shot probabilistic forecasting.
