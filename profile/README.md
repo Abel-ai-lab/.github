@@ -20,13 +20,13 @@ and a promise that it will be good for the people who rely on it.</sub>
 
 ## Research
 
+- **[Andrey](https://github.com/Abel-ai-lab/andrey)**: accelerated, accurate, agentic causal discovery in Python ([docs](https://andrey.abel.ai)).
 - **[Simons](https://github.com/Abel-ai-lab/Simons)**: open time-series foundation models for zero-shot probabilistic forecasting ([models](https://huggingface.co/collections/abel-lab/simons-1-6ae3d4ce9705938e293c52dd)).
 - **[nanoTSFM](https://github.com/Abel-ai-lab/nanoTSFM)**: an open challenge to hill-climb GIFT-Eval with one A100 and one hour.
 - **[Finance1K](https://huggingface.co/datasets/abel-lab/finance1k)**: a synchronized hourly panel of 1,000 US equities for forecasting ([paper](https://arxiv.org/abs/2608.14106)).
 
-## Products
+## Product
 
-- **[Andrey](https://github.com/Abel-ai-lab/andrey)**: accelerated, accurate, agentic causal discovery in Python ([docs](https://andrey.abel.ai)).
 - **[Predict Anything](https://github.com/Abel-ai-lab/predict-anything)**: skills that turn coding agents into market research agents.
 
 <p align="center">
