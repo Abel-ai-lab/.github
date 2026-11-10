@@ -13,10 +13,9 @@ answering with calculations, running on hardware built for it, and trusted with 
 
 ## Research
 
-- **[Andrey](https://github.com/Abel-ai-lab/andrey)**: accelerated, accurate, agentic causal discovery in Python ([docs](https://andrey.abel.ai)).
 - **[Simons](https://github.com/Abel-ai-lab/Simons)**: open time-series foundation models for zero-shot probabilistic forecasting ([models](https://huggingface.co/collections/abel-lab/simons-1-6ae3d4ce9705938e293c52dd)).
+- **[Andrey](https://github.com/Abel-ai-lab/andrey)**: accelerated, accurate, agentic causal discovery in Python ([docs](https://andrey.abel.ai)).
 - **[nanoTSFM](https://github.com/Abel-ai-lab/nanoTSFM)**: an open challenge to hill-climb GIFT-Eval with one A100 and one hour.
-- **[Finance1K](https://huggingface.co/datasets/abel-lab/finance1k)**: a synchronized hourly panel of 1,000 US equities for forecasting ([paper](https://arxiv.org/abs/2608.14106)).
 
 ## Product
 
