@@ -30,6 +30,8 @@ and a promise that it will be good for the people who rely on it.</sub>
 - **[Predict Anything](https://github.com/Abel-ai-lab/predict-anything)**: skills that turn coding agents into market research agents.
 
 <p align="center">
+  <a href="https://abel.ai"><img alt="Abel" src="mark.svg" width="40"></a>
+  <br>
   <a href="https://abel.ai">abel.ai</a> ·
   <a href="https://huggingface.co/abel-lab">Hugging Face</a> ·
   <a href="https://x.com/abel_ai_lab">X</a> ·
