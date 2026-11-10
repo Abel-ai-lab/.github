@@ -17,7 +17,7 @@ That world needs a next-generation foundation model, and Abel is building it.
 
 ## Research
 
-- **[Simons](https://github.com/Abel-ai-lab/Simons)**: open time-series foundation models for zero-shot probabilistic forecasting ([models](https://huggingface.co/collections/abel-lab/simons-1-6ae3d4ce9705938e293c52dd)).
+- **[Simons](https://github.com/Abel-ai-lab/Simons)**: open time-series foundation models for zero-shot probabilistic forecasting.
 - **[Andrey](https://github.com/Abel-ai-lab/andrey)**: accelerated, accurate, agentic causal discovery in Python.
 - **[nanoTSFM](https://github.com/Abel-ai-lab/nanoTSFM)**: an open challenge to hill-climb GIFT-Eval with one A100 and one hour.
 
