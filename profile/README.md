@@ -13,7 +13,7 @@ Large language models mastered one half of intelligence: the world of symbols.
 The other half is the world that moves: markets, power grids, patients, plants and supply chains,
 measured in numbers and changing when we act on them.
 
-That world needs a next-generation foundation model, and Abel is building it.
+We envision the next-generation foundation model as:
 
 - **Native to language and numbers.** It reads data in its own form, with text alongside to give it meaning.
 - **Reasoning you can trust.** Every answer is a calculation that can be checked.
