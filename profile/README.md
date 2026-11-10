@@ -9,9 +9,8 @@
 
 ## The other half of intelligence
 
-Large language models mastered one half of intelligence: the world of symbols.
-The other half is the world that moves: markets, power grids, patients, plants and supply chains,
-measured in numbers and changing when we act on them.
+Large language models mastered the world of symbols.
+The other half is the world that moves, measured in numbers and changing when we act on it.
 
 We envision the next-generation foundation model as:
 
