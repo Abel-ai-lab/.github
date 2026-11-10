@@ -8,8 +8,12 @@ Large language models mastered one half of intelligence: the world of symbols.
 The other half is the world that moves: markets, power grids, patients, plants and supply chains,
 measured in numbers and changing when we act on them.
 
-Abel is building the foundation model for that world: native to numbers and to change over time,
-answering with calculations, running on hardware built for it, and trusted with real decisions.
+That world needs a next-generation foundation model, and Abel is building it.
+
+- **Native to language and numbers.** It reads data in its own form, with text alongside to give it meaning.
+- **Reasoning you can trust.** Every answer is a calculation that can be checked.
+- **Software and silicon, co-designed.** Its basic unit is an operator, and its chip is designed with it.
+- **Trust between people and machines.** The whole system is built to be examined, corrected and relied on.
 
 ## Research
 
