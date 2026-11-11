@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://abel.ai">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-      <img alt="Abel" src="banner-light.svg" width="830">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abel-ai-lab/.github/main/profile/banner-dark.png">
+      <img alt="Abel" src="https://raw.githubusercontent.com/Abel-ai-lab/.github/main/profile/banner-light.png" width="830">
     </picture>
   </a>
 </p>
